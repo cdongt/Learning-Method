@@ -1,0 +1,192 @@
+{
+  "customFileOrder": {
+    "/": [
+      "0Tasks",
+      "1-CollectionBox",
+      "2-Sandbox",
+      "3-Zettelkasten",
+      "4-MainConcepts",
+      "5-Projects",
+      "6-CodeSnippets",
+      "Z-Configuration",
+      "Z-DirectoryAdjustment"
+    ],
+    "0Tasks": [
+      "0Tasks/Daily"
+    ],
+    "0Tasks/Daily": [
+      "0Tasks/Daily/2025-08-18.md",
+      "0Tasks/Daily/2025-07-28.md"
+    ],
+    "1-CollectionBox": [
+      "1-CollectionBox/readme-CollectionBox.md"
+    ],
+    "2-Sandbox": [
+      "2-Sandbox/20251103-MySQL在线练习网站.md",
+      "2-Sandbox/readme-Sandbox.md",
+      "2-Sandbox/20250912-AI编程-编辑代码阶段.md",
+      "2-Sandbox/20250905-提示词-背景信息",
+      "2-Sandbox/20250808-提示词工程-待整理",
+      "2-Sandbox/20250825-提示词-辅助学习",
+      "2-Sandbox/20250905-提示词-AI编程",
+      "2-Sandbox/20250806-uv创建虚拟环境.md",
+      "2-Sandbox/20250827-ES中如何实现多模态向量的以图搜图.md",
+      "2-Sandbox/uv安装包的各种方法.md",
+      "2-Sandbox/20250731-uv安装到F盘教程.md",
+      "2-Sandbox/20250611-python编码声明.md",
+      "2-Sandbox/20250618-代码学习-配置可拓展性-传入配置对象.md",
+      "2-Sandbox/20250709-如何利用cursor学习编程知识？.md",
+      "2-Sandbox/20250709-如何通过文件结构了解github项目.md",
+      "2-Sandbox/20250709-如何与cursor对话.md",
+      "2-Sandbox/20250709-cursor的配置-rules.md",
+      "2-Sandbox/20250717-链接图谱插件.md",
+      "2-Sandbox/20250717-学习在 v2rayN 中设置路由规则.md",
+      "2-Sandbox/20250724-与cursor对话-调整沟通方式.md",
+      "2-Sandbox/20250728-快速搭建知识体系的工作流.md",
+      "2-Sandbox/20250728-cursor的配置-全局规则.md",
+      "2-Sandbox/20250728-fastagent项目学习.md",
+      "2-Sandbox/20250728-github项目-BrowserUse.md",
+      "2-Sandbox/20250729-安装uv-通过PowerShell脚本.md",
+      "2-Sandbox/20250814-callout标题显示在大纲里.md",
+      "2-Sandbox/20250814-callout大纲-插件开发.md",
+      "2-Sandbox/20250818-记录好的角色提示词.md",
+      "2-Sandbox/20250829-如何全局安装mineru.md"
+    ],
+    "2-Sandbox/20250808-提示词工程-待整理": [
+      "2-Sandbox/20250808-提示词工程-待整理/代码生成",
+      "2-Sandbox/20250808-提示词工程-待整理/提示词框架",
+      "2-Sandbox/20250808-提示词工程-待整理/提示词优化-经验.md",
+      "2-Sandbox/20250808-提示词工程-待整理/AI生成代码-提示词-思路和经验.md"
+    ],
+    "2-Sandbox/20250808-提示词工程-待整理/代码生成": [
+      "2-Sandbox/20250808-提示词工程-待整理/代码生成/复杂项目步骤",
+      "2-Sandbox/20250808-提示词工程-待整理/代码生成/优秀样例",
+      "2-Sandbox/20250808-提示词工程-待整理/代码生成/正在测试的提示词",
+      "2-Sandbox/20250808-提示词工程-待整理/代码生成/引导对话.md"
+    ],
+    "2-Sandbox/20250808-提示词工程-待整理/代码生成/复杂项目步骤": [
+      "2-Sandbox/20250808-提示词工程-待整理/代码生成/复杂项目步骤/数据处理.md"
+    ],
+    "2-Sandbox/20250808-提示词工程-待整理/代码生成/优秀样例": [
+      "2-Sandbox/20250808-提示词工程-待整理/代码生成/优秀样例/提示词优秀样例-数据处理-代码生成.md"
+    ],
+    "2-Sandbox/20250808-提示词工程-待整理/代码生成/正在测试的提示词": [
+      "2-Sandbox/20250808-提示词工程-待整理/代码生成/正在测试的提示词/正在测试.md",
+      "2-Sandbox/20250808-提示词工程-待整理/代码生成/正在测试的提示词/excel-python.md"
+    ],
+    "2-Sandbox/20250808-提示词工程-待整理/提示词框架": [
+      "2-Sandbox/20250808-提示词工程-待整理/提示词框架/KITE.md"
+    ],
+    "2-Sandbox/20250825-提示词-辅助学习": [
+      "2-Sandbox/20250825-提示词-辅助学习/20250825-提示词-百晓生.md",
+      "2-Sandbox/20250825-提示词-辅助学习/20250825-提示词-背书侠.md",
+      "2-Sandbox/20250825-提示词-辅助学习/20250825-提示词-辅助深度思考.md",
+      "2-Sandbox/20250825-提示词-辅助学习/20250825-提示词-行业知识树.md",
+      "2-Sandbox/20250825-提示词-辅助学习/20250825-提示词-知识卡片.md",
+      "2-Sandbox/20250825-提示词-辅助学习/20250825-提示词-知识图谱研究员.md"
+    ],
+    "2-Sandbox/20250905-提示词-背景信息": [
+      "2-Sandbox/20250905-提示词-背景信息/20250905-提示词-背景信息-外贸集团.md"
+    ],
+    "2-Sandbox/20250905-提示词-AI编程": [
+      "2-Sandbox/20250905-提示词-AI编程/20250912-AI编程-检查代码阶段.md",
+      "2-Sandbox/20250905-提示词-AI编程/20250911-AI编程-测试环节.md",
+      "2-Sandbox/20250905-提示词-AI编程/20250728-AI编程-文档编写.md"
+    ],
+    "3-Zettelkasten": [
+      "3-Zettelkasten/readme-Zettelkasten.md"
+    ],
+    "4-MainConcepts": [
+      "4-MainConcepts/readme-MainConcepts.md"
+    ],
+    "5-Projects": [
+      "5-Projects/readme-Projects.md"
+    ],
+    "6-CodeSnippets": [
+      "6-CodeSnippets/readme-Codesnipastes.md"
+    ],
+    "Z-Configuration": [
+      "Z-Configuration/Obsidian",
+      "Z-Configuration/0Template",
+      "Z-Configuration/1Calendar",
+      "Z-Configuration/excalidraw",
+      "Z-Configuration/fonts",
+      "Z-Configuration/Scripts",
+      "Z-Configuration/tasksCalendar",
+      "Z-Configuration/20250724-everything语法.md",
+      "Z-Configuration/手机端同步.md",
+      "Z-Configuration/一台电脑双GitHub账户配置.md",
+      "Z-Configuration/obsidian常用语法查询.md"
+    ],
+    "Z-Configuration/0Template": [
+      "Z-Configuration/0Template/概念笔记模板.md",
+      "Z-Configuration/0Template/好例子记录模板.md",
+      "Z-Configuration/0Template/每月计划更新.md",
+      "Z-Configuration/0Template/每月开发记录.md",
+      "Z-Configuration/0Template/用列表显示多行输入.md",
+      "Z-Configuration/0Template/语法笔记模板.md",
+      "Z-Configuration/0Template/Books (Templater Advanced Version).md",
+      "Z-Configuration/0Template/Books (Templater Basic Version).md",
+      "Z-Configuration/0Template/Capture.md",
+      "Z-Configuration/0Template/Coding_Summary.md",
+      "Z-Configuration/0Template/DailyNote-topics.md",
+      "Z-Configuration/0Template/DailyNote.md"
+    ],
+    "Z-Configuration/1Calendar": [
+      "Z-Configuration/1Calendar/日历视图.md"
+    ],
+    "Z-Configuration/excalidraw": [
+      "Z-Configuration/excalidraw/excalidraw-library",
+      "Z-Configuration/excalidraw/scripts"
+    ],
+    "Z-Configuration/excalidraw/excalidraw-library": [
+      "Z-Configuration/excalidraw/excalidraw-library/architecture-diagram-components.excalidrawlib",
+      "Z-Configuration/excalidraw/excalidraw-library/awesome-icons.excalidrawlib",
+      "Z-Configuration/excalidraw/excalidraw-library/db-eng.excalidrawlib",
+      "Z-Configuration/excalidraw/excalidraw-library/deep-learning.excalidrawlib",
+      "Z-Configuration/excalidraw/excalidraw-library/drwnio.excalidrawlib",
+      "Z-Configuration/excalidraw/excalidraw-library/elk-stack.excalidrawlib",
+      "Z-Configuration/excalidraw/excalidraw-library/icons.excalidrawlib",
+      "Z-Configuration/excalidraw/excalidraw-library/risk-based-test-strategy.excalidrawlib",
+      "Z-Configuration/excalidraw/excalidraw-library/software-architecture.excalidrawlib",
+      "Z-Configuration/excalidraw/excalidraw-library/stick-figures.excalidrawlib",
+      "Z-Configuration/excalidraw/excalidraw-library/system-design.excalidrawlib",
+      "Z-Configuration/excalidraw/excalidraw-library/web3-crypto-solution-design-v1.excalidrawlib"
+    ],
+    "Z-Configuration/excalidraw/scripts": [
+      "Z-Configuration/excalidraw/scripts/Downloaded"
+    ],
+    "Z-Configuration/excalidraw/scripts/Downloaded": [
+      "Z-Configuration/excalidraw/scripts/Downloaded/UploadImageToPicGo.md",
+      "Z-Configuration/excalidraw/scripts/Downloaded/UploadImageToPicGo.svg"
+    ],
+    "Z-Configuration/fonts": [
+      "Z-Configuration/fonts/演示春风楷.ttf",
+      "Z-Configuration/fonts/字魂武林江湖体(商用需授权).ttf",
+      "Z-Configuration/fonts/Muyao-Softbrush-2.ttf"
+    ],
+    "Z-Configuration/Obsidian": [
+      "Z-Configuration/Obsidian/20250829-CODE库-关于Blue主题的修改.md"
+    ],
+    "Z-Configuration/Scripts": [
+      "Z-Configuration/Scripts/js",
+      "Z-Configuration/Scripts/AutoHotkey"
+    ],
+    "Z-Configuration/Scripts/AutoHotkey": [
+      "Z-Configuration/Scripts/AutoHotkey/TasksQuickCapture.ahk"
+    ],
+    "Z-Configuration/Scripts/js": [
+      "Z-Configuration/Scripts/js/InsertCode.js",
+      "Z-Configuration/Scripts/js/InsertCallout.js"
+    ],
+    "Z-Configuration/tasksCalendar": [
+      "Z-Configuration/tasksCalendar/view.css",
+      "Z-Configuration/tasksCalendar/view.js"
+    ],
+    "Z-DirectoryAdjustment": [
+      "Z-DirectoryAdjustment/结构文件说明.md"
+    ]
+  },
+  "draggingEnabled": true,
+  "selectedSortOrder": "manual-sorting"
+}
